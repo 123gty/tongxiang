@@ -1,0 +1,4 @@
+const json = {}
+export {
+  json
+}
